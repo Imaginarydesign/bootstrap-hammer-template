@@ -12,5 +12,3 @@ My version of [Bootstrap](http://getbootstrap.com) ported over to sass and [Hamm
 ## Installing:
 
 Download the repo and drag it into Hammer.
-
-## Thanks:
