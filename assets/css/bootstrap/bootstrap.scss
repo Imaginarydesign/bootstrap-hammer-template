@@ -1,12 +1,11 @@
-// Bootstrap 3.1.0
-
 // Core variables and mixins
 @import "bootstrap/variables";
 @import "bootstrap/mixins";
 
-// Reset
+// Reset and dependencies
 @import "bootstrap/normalize";
 @import "bootstrap/print";
+@import "bootstrap/glyphicons";
 
 // Core CSS
 @import "bootstrap/scaffolding";
@@ -19,7 +18,6 @@
 
 // Components
 @import "bootstrap/component-animations";
-@import "bootstrap/glyphicons";
 @import "bootstrap/dropdowns";
 @import "bootstrap/button-groups";
 @import "bootstrap/input-groups";
@@ -37,6 +35,7 @@
 @import "bootstrap/media";
 @import "bootstrap/list-group";
 @import "bootstrap/panels";
+@import "bootstrap/responsive-embed";
 @import "bootstrap/wells";
 @import "bootstrap/close";
 
