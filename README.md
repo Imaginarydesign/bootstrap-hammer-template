@@ -5,7 +5,7 @@ My version of [Bootstrap](http://getbootstrap.com) ported over to sass and [Hamm
 
 ## Includes:
 
-* Bootstrap - Sass version: 3.1.0
+* Bootstrap Sass v3.3.1
 * Jquery
 * Modernizr 2.6.2
 
